@@ -15,6 +15,7 @@ public class MainData {
         System.out.println("Enter Father's Name: ");
         String father1 = sc.nextLine();
 
-        System.out.println();
+        System.out.println("Enter Id number : ");
+        int num = sc.nextInt();
     }
 }
