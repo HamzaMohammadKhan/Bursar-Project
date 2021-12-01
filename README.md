@@ -1,2 +1,2 @@
-# Bursar-Project
-Personal project making a Bursar Office application for University of Karachi
+# University-Portal-Project
+Personal project making application for University of Karachi
